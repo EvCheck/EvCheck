@@ -4,7 +4,7 @@ Last updated: September 14, 2024
 
 1. **Introduction**
 
-Welcome to EvCheck (“we,” “our,” or “us”). This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our mobile application and related services (collectively, the “App”). Our App provides a platform for users to connect with mechanics, locate charging stations for electric vehicles (EVs), and share information about EVs.
+Welcome to EVCheck (“we,” “our,” or “us”). This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our mobile application and related services (collectively, the “App”). Our App provides a platform for users to connect with mechanics, locate charging stations for electric vehicles (EVs), and share information about EVs.
 
 By using our App, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, please do not use our App.
 
@@ -106,4 +106,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 9. **Contact Us**
 
-If you have any questions about this Privacy Policy or our data practices, please contact us at: EvCheck, Mapusa Goa, evcheckstartup@gmail.com.
+If you have any questions about this Privacy Policy or our data practices, please contact us at: EVCheck, Mapusa Goa, evcheckstartup@gmail.com.
