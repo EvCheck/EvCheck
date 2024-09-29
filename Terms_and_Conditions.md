@@ -2,7 +2,7 @@
 
 Last Updated: September 14, 2024
 
-Welcome to EvCheck! These Terms and Conditions govern your use of our mobile application, which offers features for locating charging stations, planning routes, posting content about electric vehicles (EVs), connecting with mechanics, and using chat functionalities.
+Welcome to EVCheck! These Terms and Conditions govern your use of our mobile application, which offers features for locating charging stations, planning routes, posting content about electric vehicles (EVs), connecting with mechanics, and using chat functionalities.
 
 By using our app, you agree to comply with these Terms. Please read them carefully.
 
@@ -66,4 +66,4 @@ These Terms shall be governed by and construed in accordance with the laws of In
 
 12. **Contact Us**
 
-If you have any questions about these Terms, please contact us at: EvCheck, Mapusa Goa, evcheckstartup@gmail.com.
+If you have any questions about these Terms, please contact us at: EVCheck, Mapusa Goa, evcheckstartup@gmail.com.
